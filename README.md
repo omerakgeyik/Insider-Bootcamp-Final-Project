@@ -25,8 +25,42 @@ Selenium-Python test automation framework for verifying product search, cart ope
 4. Configure test parameters in "utilities/config.py"
 
 ## Folder Structure(POM)
-```bash
+```
 project/
 ├── tests/
 ├── pages/
 └── utilities/
+```
+
+## Running Test
+Execute from project root(in terminal):
+```bash
+python -m unittest tests/test_amazon.py
+```
+
+## Key Components
+- BaseTest: Handles browser setup/teardown
+- Page Classes: Contains locators and page-specific operations
+- Config: Centralized test configuration
+- Waits: Explicit waits for element interactions
+
+
+## Test Flow
+1. Home page verification
+2. Product search
+3. Search results validation
+4. Pagination handling
+5. Product selection
+6. Cart operations (add/remove)
+7. Navigation verification
+
+
+## Notes
+- Adjust locators in page classes if Amazon UI changes
+- ChromeDriver version must match local Chrome browser
+- Implicit wait set to 10 seconds (configurable in BaseTest)
+
+
+```
+Let me know if you need any modifications or additional details! :)
+```
