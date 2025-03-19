@@ -1,6 +1,8 @@
 # Amazon Product Cart Automation
 
-<div style="text-align:center">![Image](https://github.com/user-attachments/assets/c9a64bf3-4745-4595-875b-5ae8288ad53d)</div>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/c9a64bf3-4745-4595-875b-5ae8288ad53d" alt="Description of GIF" />
+</div>
 
 Selenium-Python test automation framework for verifying product search, cart operations, and navigation on Amazon.tr. Follows Page Object Model (POM) design pattern.
 
