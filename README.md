@@ -1,5 +1,4 @@
-# Amazon Product Cart Automation
-
+# <p align="center">Amazon Product Cart Automation</p>
 <div align="center">
   <img src="https://github.com/user-attachments/assets/c9a64bf3-4745-4595-875b-5ae8288ad53d" alt="Description of GIF" />
 </div>
