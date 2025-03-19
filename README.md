@@ -59,11 +59,10 @@ python -m unittest tests/test_amazon.py
 
 
 ## Which view of the site was tested?
-```
 When running tests during automated testing, the same URL redirects to two different sites. The site I tested looks like this:
-```
+
 <div align="center">
-  <img width="1280" alt="Image" src="https://github.com/user-attachments/assets/dad97bd5-c73b-4df3-8859-bb721a5f4ad2" />
+  <img width="640" alt="Image" src="https://github.com/user-attachments/assets/dad97bd5-c73b-4df3-8859-bb721a5f4ad2" />
 </div>
 
 ## Notes
